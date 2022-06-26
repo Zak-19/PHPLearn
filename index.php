@@ -1,6 +1,11 @@
 <html>
     <body>
-    hello world zak
+
+    <?php
+    
+    echo "Hello world!"
+
+    ?>
     
     </body>
 </html>
