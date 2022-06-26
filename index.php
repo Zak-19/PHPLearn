@@ -2,8 +2,9 @@
     <body>
 
     <?php
+    $myVar = "This is my variable";
+    echo $myVar;
     
-    echo "Hello world!"
 
     ?>
     
